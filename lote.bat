@@ -79,6 +79,9 @@ python palacios/multiple_26.py "sen" "tg"
 python palacios/multiple_27.py 1011
 python palacios/multiple_27.py 950
 python palacios/multiple_27.py 1320
+python palacios/multiple_28.py 28
+python palacios/multiple_28.py 19
+python palacios/multiple_28.py 16
 
 
 
