@@ -43,5 +43,9 @@ python palacios/doble_14.py 123
 python palacios/doble_15.py 202
 python palacios/doble_15.py 136
 python palacios/doble_15.py 233
+python palacios/doble_16.py "aux" "tc"
+python palacios/doble_16.py "cov" "vc"
+python palacios/doble_16.py "sen" "tg"
+
 
 

@@ -1,5 +1,5 @@
-#PROGRAMA 5
-#Ejercicio 5 condicional simple
+#PROGRAMA 15
+#Ejercicio 15 condicional doble
 import os
 ejercicio=0
 #INPUT VIA OS
