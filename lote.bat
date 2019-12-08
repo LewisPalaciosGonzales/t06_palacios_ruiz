@@ -7,5 +7,7 @@ python palacios/simple_02.py "3215" "65152"
 python palacios/simple_03.py 85 79
 python palacios/simple_03.py 65 52
 python palacios/simple_03.py 90 88
-
+python palacios/simple_04.py 105
+python palacios/simple_04.py 95
+python palacios/simple_04.py 123
 
