@@ -85,6 +85,9 @@ python palacios/multiple_28.py 16
 python palacios/multiple_29.py 16 "Juan" 15 12
 python palacios/multiple_29.py 17 "Jorge" 8 9
 python palacios/multiple_29.py 16 "Felipe" 12 6
+python palacios/multiple_30.py 1220
+python palacios/multiple_30.py 1725
+python palacios/multiple_30.py 1325
 
 
 

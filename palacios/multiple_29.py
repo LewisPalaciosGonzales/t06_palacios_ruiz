@@ -1,5 +1,5 @@
-#PROGRAMA 9
-#Ejercicio 9 condicional simple
+#PROGRAMA 29
+#Ejercicio 29 condicional multiple
 import os
 edad,nombre,nota1,nota2=0,"",0.0,0.0
 #INPUT VIA OS
