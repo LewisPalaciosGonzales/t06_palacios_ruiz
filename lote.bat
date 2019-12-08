@@ -49,5 +49,8 @@ python palacios/doble_16.py "sen" "tg"
 python palacios/doble_17.py 1011
 python palacios/doble_17.py 950
 python palacios/doble_17.py 1320
+python palacios/doble_18.py 35
+python palacios/doble_18.py 25
+python palacios/doble_18.py 12
 
 
