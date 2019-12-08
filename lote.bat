@@ -37,6 +37,8 @@ python palacios/doble_12.py "3215" "65152"
 python palacios/doble_13.py 85 79
 python palacios/doble_13.py 65 52
 python palacios/doble_13.py 90 88
-
+python palacios/doble_14.py 105
+python palacios/doble_14.py 95
+python palacios/doble_14.py 123
 
 
