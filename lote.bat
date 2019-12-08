@@ -19,5 +19,6 @@ python palacios/simple_06.py "sen" "tg"
 python palacios/simple_07.py 1011
 python palacios/simple_07.py 950
 python palacios/simple_07.py 1320
-
-
+python palacios/simple_08.py 35
+python palacios/simple_08.py 25
+python palacios/simple_08.py 12
