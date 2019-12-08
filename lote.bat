@@ -10,4 +10,7 @@ python palacios/simple_03.py 90 88
 python palacios/simple_04.py 105
 python palacios/simple_04.py 95
 python palacios/simple_04.py 123
+python palacios/simple_05.py 202
+python palacios/simple_05.py 136
+python palacios/simple_05.py 233
 
