@@ -40,5 +40,8 @@ python palacios/doble_13.py 90 88
 python palacios/doble_14.py 105
 python palacios/doble_14.py 95
 python palacios/doble_14.py 123
+python palacios/doble_15.py 202
+python palacios/doble_15.py 136
+python palacios/doble_15.py 233
 
 
