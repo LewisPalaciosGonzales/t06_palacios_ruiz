@@ -67,5 +67,8 @@ python palacios/multiple_22.py "3215" "65152"
 python palacios/multiple_23.py 85 79
 python palacios/multiple_23.py 65 52
 python palacios/multiple_23.py 90 88
+python palacios/multiple_24.py 105
+python palacios/multiple_24.py 195
+python palacios/multiple_24.py 223
 
 
