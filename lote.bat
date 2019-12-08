@@ -25,5 +25,8 @@ python palacios/simple_08.py 12
 python palacios/simple_09.py 16 "Juan" 15 12
 python palacios/simple_09.py 17 "Jorge" 02 19
 python palacios/simple_09.py 16 "Felipe" 05 03
+python palacios/simple_10.py 1220
+python palacios/simple_10.py 1625
+python palacios/simple_10.py 1325
 
 
