@@ -76,6 +76,9 @@ python palacios/multiple_25.py 194
 python palacios/multiple_26.py "aux" "tc"
 python palacios/multiple_26.py "cov" "vc"
 python palacios/multiple_26.py "sen" "tg"
+python palacios/multiple_27.py 1011
+python palacios/multiple_27.py 950
+python palacios/multiple_27.py 1320
 
 
 
