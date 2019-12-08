@@ -34,5 +34,9 @@ python palacios/doble_11.py 10 50 20 60
 python palacios/doble_12.py "admin" "$#r"
 python palacios/doble_12.py "cuenta" "incorrecta"
 python palacios/doble_12.py "3215" "65152"
+python palacios/doble_13.py 85 79
+python palacios/doble_13.py 65 52
+python palacios/doble_13.py 90 88
+
 
 
