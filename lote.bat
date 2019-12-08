@@ -55,5 +55,8 @@ python palacios/doble_18.py 12
 python palacios/doble_19.py 16 "Juan" 15 12
 python palacios/doble_19.py 17 "Jorge" 02 19
 python palacios/doble_19.py 16 "Felipe" 05 03
+python palacios/doble_20.py 1220
+python palacios/doble_20.py 1625
+python palacios/doble_20.py 1325
 
 
