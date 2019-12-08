@@ -13,4 +13,9 @@ python palacios/simple_04.py 123
 python palacios/simple_05.py 202
 python palacios/simple_05.py 136
 python palacios/simple_05.py 233
+python palacios/simple_06.py "aux" "tc"
+python palacios/simple_06.py "cov" "vc"
+python palacios/simple_06.py "sen" "tg"
+
+
 
