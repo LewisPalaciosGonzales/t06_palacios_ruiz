@@ -1,5 +1,5 @@
-#PROGRAMA 1
-#Ejercicio 1 condicional simple
+#PROGRAMA 21
+#Ejercicio 21 condicional multiple
 import os
 n1,n2,n3,n4,prom,mensaje=0,0,0,0,0,""
 #INPUT VIA OS

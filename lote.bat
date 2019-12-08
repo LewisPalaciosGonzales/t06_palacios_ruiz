@@ -61,5 +61,8 @@ python palacios/doble_20.py 1325
 python palacios/multiple_21.py 100 100 100 100
 python palacios/multiple_21.py 90 90 80 90
 python palacios/multiple_21.py 72 73 75 65
+python palacios/multiple_22.py "admin" "$#r"
+python palacios/multiple_22.py "lewis" "1234"
+python palacios/multiple_22.py "3215" "65152"
 
 
