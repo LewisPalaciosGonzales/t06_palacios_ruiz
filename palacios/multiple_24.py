@@ -1,5 +1,5 @@
-#PROGRAMA 4
-#Ejercicio 4 condicional simple
+#PROGRAMA 24
+#Ejercicio 24 condicional multiple
 import os
 tickets=0
 #INPUT VIA OS

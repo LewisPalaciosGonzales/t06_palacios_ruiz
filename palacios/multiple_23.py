@@ -1,5 +1,5 @@
-#PROGRAMA 3
-#Ejercicio 3 condicional simple
+#PROGRAMA 23
+#Ejercicio 23 condicional multiple
 import os
 peso_bajado,peso1,peso2=0.0,0.0,0.0
 #INPUT VIA OS

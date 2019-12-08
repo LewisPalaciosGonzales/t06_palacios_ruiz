@@ -70,5 +70,9 @@ python palacios/multiple_23.py 90 88
 python palacios/multiple_24.py 105
 python palacios/multiple_24.py 195
 python palacios/multiple_24.py 223
+python palacios/multiple_25.py 202
+python palacios/multiple_25.py 136
+python palacios/multiple_25.py 194
+
 
 
