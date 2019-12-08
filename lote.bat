@@ -64,5 +64,8 @@ python palacios/multiple_21.py 72 73 75 65
 python palacios/multiple_22.py "admin" "$#r"
 python palacios/multiple_22.py "lewis" "1234"
 python palacios/multiple_22.py "3215" "65152"
+python palacios/multiple_23.py 85 79
+python palacios/multiple_23.py 65 52
+python palacios/multiple_23.py 90 88
 
 

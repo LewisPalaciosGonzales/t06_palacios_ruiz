@@ -9,6 +9,8 @@ peso2=int(os.sys.argv[2])
 #si bajo 7 kg mostrar
 #excelente comentario
 peso_bajado=peso1-peso2
-if  (peso_bajado>7):
-    print ("EXCELENTE ENTRENAMIENTO")
-#fin_if
+if  (peso_bajado<7):
+    print ("BUEN ENTRENAMIENTO")
+if  (peso_bajado>8) and (peso_bajado<15):
+    print("EXCELENTE ENTRENAMIENTO")
+#finif
