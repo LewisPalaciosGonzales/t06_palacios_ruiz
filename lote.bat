@@ -88,6 +88,102 @@ python palacios/multiple_29.py 16 "Felipe" 12 6
 python palacios/multiple_30.py 1220
 python palacios/multiple_30.py 1725
 python palacios/multiple_30.py 1325
+python ruiz/simple01.py "Juan"
+python ruiz/simple01.py "Ruiz"
+python ruiz/simple01.py "Pedro"
+python ruiz/simple02.py 10 20
+python ruiz/simple02.py 15 20
+python ruiz/simple02.py 9.5 50
+python ruiz/simple03.py "Ruiz" 15 16 17
+python ruiz/simple03.py "Arevalo" 15 12 11
+python ruiz/simple03.py "Carlos" 15 12 14
+python ruiz/simple04.py "Alexander" 19
+python ruiz/simple04.py "Jhovany" 15
+python ruiz/simple04.py "claudia" 18
+python ruiz/simple05.py "Carlos" 89.90 80.0
+python ruiz/simple05.py "Marlon" 75.90 70.0
+python ruiz/simple05.py "Rocky" 89.90 80.0
+python ruiz/simple06.py "nombrado" "ptp"
+python ruiz/simple06.py "nombrado" "cas"
+python ruiz/simple06.py "sin nombrar" "cas"
+python ruiz/simple07.py "Jorge" 10
+python ruiz/simple07.py "Jorge" 11
+python ruiz/simple07.py "Jorge" 12
+python ruiz/simple08.py 50 19
+python ruiz/simple08.py 50 29
+python ruiz/simple08.py 50 20
+python ruiz/simple09.py 3400 "Publico"
+python ruiz/simple09.py 500 "Publico"
+python ruiz/simple09.py 5000 "Otro"
+python ruiz/simple10.py  1000
+python ruiz/simple10.py  1004
+python ruiz/simple10.py  1010
+python ruiz/doble01.py "Juan"
+python ruiz/doble01.py "Ruiz"
+python ruiz/doble01.py "Pedro"
+python ruiz/doble02.py 10 20
+python ruiz/doble02.py 15 20
+python ruiz/doble02.py 9.5 3
+python ruiz/doble03.py "Ruiz" 15 16 17
+python ruiz/doble03.py "Arevalo" 15 12 11
+python ruiz/doble03.py "Carlos" 15 12 14
+python ruiz/doble04.py "Alexander" 19
+python ruiz/doble04.py "Jhovany" 15
+python ruiz/doble04.py "claudia" 18
+python ruiz/doble05.py "Carlos" 89.90 80.0
+python ruiz/doble05.py "Marlon" 75.90 70.0
+python ruiz/doble05.py "Rocky" 89.90 80.0
+python ruiz/doble06.py "nombrado" "ptp"
+python ruiz/doble06.py "nombrado" "cas"
+python ruiz/doble06.py "sin nombrar" "cas"
+python ruiz/doble07.py "Jorge" 10
+python ruiz/doble07.py "Carlos" 13
+python ruiz/doble07.py "Marlon" 11
+python ruiz/doble08.py 50 19
+python ruiz/doble08.py 50 29
+python ruiz/doble08.py 50 20
+python ruiz/doble09.py 200 "Publico"
+python ruiz/doble09.py 500 "Publico"
+python ruiz/doble09.py 299 "Otro"
+python ruiz/doble10.py 400 300
+python ruiz/doble10.py 800 300
+python ruiz/doble10.py 200 300
+python ruiz/multiple01.py "Claudio"
+python ruiz/multiple01.py "claudio"
+python ruiz/multiple01.py "Fernando"
+python ruiz/multiple01.py "Ruiz"
+python ruiz/multiple02.py 10 20
+python ruiz/multiple02.py 10 40
+python ruiz/multiple02.py 10 60
+python ruiz/multiple03.py "Rocky" 10 0 10
+python ruiz/multiple03.py "Carlos" 10 11 14
+python ruiz/multiple03.py "Ruiz" 15 16 17
+python ruiz/multiple03.py "Sanchez" 18 19 20
+python ruiz/multiple04.py "Rocky" 5
+python ruiz/multiple04.py "Carlos" 11
+python ruiz/multiple04.py "Ruiz" 17
+python ruiz/multiple04.py "Sanchez" 25
+python ruiz/multiple04.py "Saavedra" 59
+python ruiz/multiple04.py "Silva" 76
+python ruiz/multiple05.py "ruiz" 60 57
+python ruiz/multiple05.py "ruiz" 60 55
+python ruiz/multiple05.py "ruiz" 60 50
+python ruiz/multiple06.py "Nombrado" "Cas"
+python ruiz/multiple06.py "Nombrado" "Auxs"
+python ruiz/multiple06.py "Nombrado" "Aux"
+python ruiz/multiple07.py "Rocky" 5
+python ruiz/multiple07.py "Carlos" 11
+python ruiz/multiple07.py "Ruiz" 17
+python ruiz/multiple08.py 100 77
+python ruiz/multiple08.py 100 75
+python ruiz/multiple08.py 100 50
+python ruiz/multiple08.py 100 25
+python ruiz/multiple09.py 300 "Publico"
+python ruiz/multiple09.py 300 "Public"
+python ruiz/multiple09.py 600 "Publico"
+python ruiz/multiple10.py 600 600
+python ruiz/multiple10.py 600 700
+python ruiz/multiple10.py 600 500
 
 
 
